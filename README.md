@@ -1,2 +1,6 @@
-* https://github.com/vulkan-go/vulkan
-* https://github.com/vulkan-go/demos
+1777fps / 0.56ms
+
+```
+go get github.com/vulkan-go/vulkan
+go get github.com/ubuntunux/GoEngine3D
+```
